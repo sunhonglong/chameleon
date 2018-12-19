@@ -5,7 +5,7 @@ mybatis:
 spring: 
 #  profiles: dev
   datasource:
-    url: jdbc:mysql://10.247.11.9:3306/chameleon
-    username: root
-    password: cwqwefugmzyfhnoDzgy1a:fvVlsm4hoq
+    url:  
+    username:  
+    password:  
     driver-class-name: com.mysql.jdbc.Driver
