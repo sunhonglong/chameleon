@@ -1,0 +1,11 @@
+ 
+mybatis: 
+#  typeAliasesPackage: com.chameleon
+  mapperLocations: classpath:mapper/*.xml
+spring: 
+#  profiles: dev
+  datasource:
+    url: jdbc:mysql://10.247.11.9:3306/chameleon
+    username: root
+    password: cwqwefugmzyfhnoDzgy1a:fvVlsm4hoq
+    driver-class-name: com.mysql.jdbc.Driver
