@@ -1,5 +1,5 @@
 # chameleon
-##HTTP RESTfull Mock    
+## HTTP RESTfull Mock    
 request:Mock的请求
   method：请求方法，POST、GET、PUT、DELETE   
   response：请求响应，如json，html，txt    
